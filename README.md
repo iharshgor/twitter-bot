@@ -1,7 +1,7 @@
 # Twitter Bot
 Python app to look for specific keywords in tweets and to give like and retweet them.
 
-## Twiiter Account Setup
+## Twitter Account Setup
 - Create a new account or use an existing twitter account for the bot.
 - Sign up for a [developer account](https://developer.twitter.com/) using bot's account.
 - Create an Application, We need an app to get credentials.
